@@ -20,4 +20,4 @@ layout = {'title': 'GItHubs Most Popular Javascript Projects',
 'yaxis': {'title': 'Stars'}}
 
 fig = {'data': data_plots, 'layout': layout}
-offline.plot(fig, filename='Most_Popular_JavaScript_Repos.html')
+offline.plot(fig, filename='index.html')
